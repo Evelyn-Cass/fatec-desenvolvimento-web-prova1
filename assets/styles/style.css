@@ -64,11 +64,12 @@ video {
 
 
 p {
-    width: 80%;
+    width: 90%;
     margin-bottom: 5%;
     line-height: 19.5px;
     font-size: 16px;
     font-weight: normal;
+    text-align: center;
 }
 
 .fotos {
