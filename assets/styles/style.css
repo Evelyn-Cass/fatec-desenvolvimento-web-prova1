@@ -60,7 +60,6 @@ main {
 video {
     max-width: 300px;
     max-height: 250px;
-
 }
 
 
@@ -81,11 +80,12 @@ p {
 
 
 figure {
-    border: 1px solid #ccc;
+    border: 5px solid rosybrown;
     border-radius: 10px;
     padding: 5px;
     margin: 1%;
     text-align: center;
+    background-color: #333;
 }
 
 img {
@@ -95,9 +95,9 @@ img {
 }
 
 figcaption {
-    background-color: #222;
+
     border-radius: 10px;
-    color: #fff;
+    color: white;
     padding: 3px;
     text-align: center;
 }
