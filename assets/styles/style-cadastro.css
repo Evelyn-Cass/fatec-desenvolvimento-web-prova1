@@ -27,7 +27,6 @@ select {
     border: 1px outset;
     padding: 10px;
 }
-
 input:focus {
     background: lightyellow;
     border: 1px solid rosybrown;
