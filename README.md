@@ -1,3 +1,5 @@
+![FATEC](https://github.com/Evelyn-Cass/fatec-desenvolvimento-web/blob/main/img/fatec.png)
+
 # Repositório da PROVA 1 de Desenvolvimento Web
 Este é o repositório da atividade valendo nota da Disciplina de Desenvolvimento Web do curso de Desenvolvimento de Softwares Multiplataformas da Faculdade Fatec. Aqui você encontrara a página web que criei para completar a atividade.
 
