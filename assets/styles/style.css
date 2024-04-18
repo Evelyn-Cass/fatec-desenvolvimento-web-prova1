@@ -41,6 +41,8 @@ main {
 .grid-container {
     display: flex;
     width: 80%;
+
+    margin-top: 2%;
 }
 
 .grid-video {
