@@ -41,7 +41,6 @@ main {
 .grid-container {
     display: flex;
     width: 80%;
-
     margin-top: 2%;
 }
 
@@ -60,7 +59,9 @@ main {
 
 video {
     max-width: 300px;
-    max-height: 250px;
+    max-height: 158px;
+    border: 5px solid rosybrown;
+    border-radius: 10px;    
 }
 
 
